@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(255, 149, 0);
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link,
+a:visited {
+    color: rgb(165, 42, 151);
+}
+
+#wrap {
+    width: 960px;
+    margin: auto;
+    padding: 10px 20px;
+}
+
+#form {
+    background-color: rgb(255, 242, 0);
+}
+
+a {
+    text-decoration: none;
+}
